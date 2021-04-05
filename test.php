@@ -12,4 +12,3 @@ use OtherVendor\OtherPackage\BazClass;
 // Commit 3
 
 // Commit 4
-
